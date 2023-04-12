@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gokula Krishnan E.
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently learning Backend development.
+- 🌱 I’m currently Grinding DSA on Leetode and learning Backend development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gokulkrish.elangovan10@gmail.com.
 - Programming Languages: C,Java,Python,Javascript
