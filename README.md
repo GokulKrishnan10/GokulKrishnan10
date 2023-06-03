@@ -21,5 +21,6 @@ You can click the Preview link to take a look at your changes.
 
 ## Repositories
 ![Gokula Krishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GokulKrishnan10&show_icons=true&theme=radical)
+<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulKrishnan10&hide_progress=true)](https://github.com/GokulKrishnan10/github-readme-stats)
 
