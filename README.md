@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="100" />
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="100" />
-  <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="100" />
+  <img src="https://w7.pngwing.com/pngs/761/45/png-transparent-professional-python-programmer-computer-programming-android-android-blue-logo-computer-program-thumbnail.png" width="100" />
 </p>
