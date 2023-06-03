@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            <span><strong>JS</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
             </td>
         </tr>
     </tbody>
