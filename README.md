@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Streaks and Languages used
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulKrishnan10"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulKrishnan10&hide_progress=true)](https://github.com/GokulKrishnan10/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulKrishnan10&hide_progress=true)](https://github.com/GokulKrishnan10/github-readme-stats)
 
 
 
