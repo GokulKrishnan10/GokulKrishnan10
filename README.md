@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Repositories
-![Languages](https://img.shields.io/github/languages/count/GokulKrishnan10)
+![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=repositories&query=total_private_repos&url=https://api.github.com/users/your-username)
