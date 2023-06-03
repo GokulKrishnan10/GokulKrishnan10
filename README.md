@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <span><strong>Express</strong></span><br>
+            <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
             <td width="80px" align="center">
             <span><strong>JS</strong></span><br>
             <img height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
