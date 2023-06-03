@@ -13,3 +13,8 @@ You can click the Preview link to take a look at your changes.
 ## Languages and Tools Used
 ![Alt JS](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) ![Alt Linux](https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png)
 
+<p float="left">
+  <img src="https://www.freepnglogos.com/uploads/linux-png/linux-tux-logo-png-transparent-svg-vector-bie-supply-14.png" width="200" />
+  <img src="image2_url" width="200" />
+  <img src="image3_url" width="200" />
+</p>
