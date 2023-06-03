@@ -18,3 +18,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="100" />
 </p>
+
+## Repositories
+![Languages](https://img.shields.io/github/languages/count/GokulKrishnan10)
