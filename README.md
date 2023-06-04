@@ -2,8 +2,8 @@
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently Grinding DSA on Leetode and learning Backend development.
 - 📫 How to reach me gokulkrish.elangovan10@gmail.com.
-- Programming Languages: C,Java,Python,Javascript
-- Web Frameworks: React Js, express Js
+- Programming Languages: Java,Python,Javascript,C
+- Web Frameworks: React.js, express.js, Redux.js
 
 <!---
 GokulKrishnan10/GokulKrishnan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
