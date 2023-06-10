@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Gokula Krishnan E.
-<hr/>
+
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently Grinding DSA on Leetode and learning Backend development.
 - 📫 How to reach me gokulkrish.elangovan10@gmail.com.
