@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Gokula Krishnan E.
 
-📍 👀 I’m interested in Full Stack Development.
-📍 🌱 I’m currently Grinding DSA on Leetode and learning Backend development.
-📍 📫 How to reach me gokulkrish.elangovan10@gmail.com.
-📍 Programming Languages: Java,Python,Javascript,C
-📍 Web Frameworks: Express.js
-📍 Libraries: React, Redux, Angular
+📍 👀 I’m interested in Full Stack Development.<br/>
+📍 🌱 I’m currently Grinding DSA on Leetode and learning Backend development.<br/>
+📍 📫 How to reach me gokulkrish.elangovan10@gmail.com.<br/>
+📍 Programming Languages: Java,Python,Javascript,C<br/>
+📍 Web Frameworks: Express.js<br/>
+📍 Libraries: React, Redux, Angular<br/>
 
 <!---
 GokulKrishnan10/GokulKrishnan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
